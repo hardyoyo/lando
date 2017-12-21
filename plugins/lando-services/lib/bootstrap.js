@@ -35,6 +35,7 @@ module.exports = function(lando) {
       'node',
       'mailhog',
       'mariadb',
+      'maven',
       'memcached',
       'mssql',
       'mongo',
