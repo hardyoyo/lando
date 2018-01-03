@@ -1,7 +1,7 @@
 /**
- * LAMP recipe builder
+ * Rails recipe builder
  *
- * @name lamp
+ * @name rails
  */
 
 'use strict';
